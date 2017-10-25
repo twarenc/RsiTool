@@ -22,9 +22,9 @@ Want more features? Contact zaWasp on EastCoastCrypto Discord group
 
 Donations are highly appreciated:
 
-BTC: 
+BTC: 1Q9PKH5j3bYhDfc2Sfj4zZUASUj6gHTpYk
 
-ETH:
+ETH: 0xd6d3f85a24042c2b229c0b4156437587213cb9fc
 
-LTC:
+LTC: LLscAXtvQVwjuwTnV8PNZ3yRbkUrmZbW8H
 
